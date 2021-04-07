@@ -14,7 +14,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#install)
 
-## ➤ Install
+## ➤ Install Dependencies
 
 ```sh
 npm install
@@ -23,7 +23,7 @@ npm install
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#usage)
 
-## ➤ Usage
+## ➤ Start the Development Server
 
 ```sh
 npm start
