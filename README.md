@@ -13,26 +13,27 @@
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#install)
+### ➤ To setup the local Development Environment:
 
-## ➤ Install Dependencies
+#### ➤ Clone the app repository
+
+```sh
+git clone https://github.com/KaramveerSidhu/ai-news-app.git
+```
+
+#### ➤ Install Dependencies
 
 ```sh
 npm install
 ```
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#usage)
-
-## ➤ Start the Development Server
+#### ➤ Start the Development Server
 
 ```sh
 npm start
 ```
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#run-tests)
-
-## ➤ Run tests
+#### ➤ Run tests
 
 ```sh
 npm test
