@@ -28,7 +28,7 @@
 
  **_NOTE:_** The app is not limited to understanding these lines only. You can use any similar line. For example a different topic like Elon Musk.
 
-![image](https://user-images.githubusercontent.com/51775341/113926781-3e76cc80-980a-11eb-8cb3-0c9f700530ef.png)
+![image](https://user-images.githubusercontent.com/51775341/113928150-03759880-980c-11eb-82a2-558f51fae37a.png)
 
 ### ➤ You may have the app read the headlines for you by answering 'yes'.
 ![image](https://user-images.githubusercontent.com/51775341/113926855-58181400-980a-11eb-8175-5daf283bd65d.png)
@@ -84,4 +84,3 @@ npm test
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
