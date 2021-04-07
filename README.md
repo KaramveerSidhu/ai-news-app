@@ -27,6 +27,7 @@
 4. Give me the news from CNN 
 
  **_NOTE:_** The app is not limited to understanding these lines only. You can use any similar line. For example a different topic like Elon Musk.
+ 
 ![3](https://user-images.githubusercontent.com/51775341/113928648-b3e39c80-980c-11eb-859d-044b84478ce9.png)
 
 ### ➤ You may have the app read the headlines for you by answering 'yes'.
