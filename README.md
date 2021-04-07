@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Newsbot 👋</h1>
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Welcome to Newsbot 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/KaramveerSidhu/ai-news-app" target="_blank">
@@ -12,25 +12,37 @@
 
 ### ✨ [Demo](https://ainewsapp.netlify.app/)
 
-## Install
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#install)
+
+## ➤ Install
 
 ```sh
 npm install
 ```
 
-## Usage
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#usage)
+
+## ➤ Usage
 
 ```sh
 npm start
 ```
 
-## Run tests
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#run-tests)
+
+## ➤ Run tests
 
 ```sh
 npm test
 ```
 
-## Author
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#author)
+
+## ➤ Author
 
 👤 **Karamveer Singh Sidhu **
 
@@ -38,7 +50,10 @@ npm test
 * Github: [@KaramveerSidhu](https://github.com/KaramveerSidhu)
 * LinkedIn: [@karamveersidhu](https://linkedin.com/in/karamveersidhu)
 
-## Show your support
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#show-your-support)
+
+## ➤ Show your support
 
 Give a ⭐️ if this project helped you!
 
