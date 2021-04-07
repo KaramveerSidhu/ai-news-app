@@ -8,9 +8,8 @@
 
 > A voice controlled web app to fetch news, built with React and powered by a conversational voice AI platform.
 
-### 🏠 [Homepage](https://ainewsapp.netlify.app/)
 
-### ✨ [Demo](https://ainewsapp.netlify.app/)
+### ✨ [LIVE APP](https://ainewsapp.netlify.app/)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#install)
