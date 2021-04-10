@@ -69,7 +69,7 @@ npm test
 
 ## ➤ Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/KaramveerSidhu/ai-news-app/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check the [issues page](https://github.com/KaramveerSidhu/ai-news-app/issues).
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#author)
