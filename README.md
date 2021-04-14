@@ -6,8 +6,12 @@
   </a>
 </p>
 
-> A voice controlled web app to fetch news, built with React and powered by a conversational voice AI platform.
+A voice controlled App that fetches News for you. The user can ask for the latest news, news by category, news by term, news by source. The app fetches and displays the news from the News API. The user can ask the app to read the headlines and open any article to read and go back. The app automatically scrolls down the page while reading the headlines.
 
+Used React and Material UI to build the UI. 
+Alan AI and Alan Studio are used to add voice capabilities to the app.
+
+Other libraries used: words-to-numbers and classnames. Deployed on Netlify.
 
 ## ✨ [LIVE APP](https://ainewsapp.netlify.app/)
 
