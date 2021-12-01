@@ -1,8 +1,9 @@
 import React, {useState, useEffect} from 'react';
 import alanBtn from "@alan-ai/alan-sdk-web";
 import NewsCards from './components/NewsCards/NewsCards';
-import useStyles from './styles'
 import wordsToNumbers from 'words-to-numbers';
+import useStyles from './styles'
+
 
 const myAlanKey = "9f73f61c5a3dcaa028cc1a7442aac10d2e956eca572e1d8b807a3e2338fdd0dc/stage";
 

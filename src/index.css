@@ -2,13 +2,13 @@
 	height: 100vh;
 }
 
+* {
+	box-sizing: border-box;
+}
+
 body {
 	margin: 0;
 	background-color: whitesmoke;
-}
-
-* {
-	box-sizing: border-box;
 }
 
 html {

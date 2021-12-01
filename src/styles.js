@@ -4,8 +4,8 @@ export default makeStyles((theme) => ({
   footer: {
     textAlign: 'center',
     position: 'fixed',
-    left: 0,
     bottom: 0,
+    left: 0,
     color: 'black',
     width: '100%',
     display: 'flex',

@@ -14,8 +14,8 @@ export default makeStyles({
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',
-    alignItems: 'center',
     borderBottom: '10px solid white', 
+    alignItems: 'center',
   },
   activeCard: {
     borderBottom: '10px solid #22289a',
